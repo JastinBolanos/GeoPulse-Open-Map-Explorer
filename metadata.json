@@ -1,0 +1,6 @@
+{
+  "name": "GeoPulse",
+  "description": "Aplicación cartográfica interactiva de alta densidad con Leaflet.js, teselas raster satelitales, topográficas y callejeras de código abierto sin API key.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
