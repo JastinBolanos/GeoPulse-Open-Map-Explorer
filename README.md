@@ -4,6 +4,15 @@
 
 ---
 
+## 🎥 Interactive Platform Demo
+
+**🎬 Exploring GeoPulse Capabilities**  
+A quick overview of the interactive map engine, showcasing the high-resolution layers, seamless navigation, and real-time geocoding search in action.
+
+https://github.com/user-attachments/assets/ce9d3459-7afa-40e8-b490-271ce52954bb
+
+---
+
 ### 🛠️ Built With & Data Providers
 
 ![Leaflet](https://img.shields.io/badge/Leaflet-1.9.4-199900?style=for-the-badge&logo=leaflet&logoColor=white)
