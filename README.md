@@ -7,9 +7,10 @@
 ## 🎥 Interactive Platform Demo
 
 **🎬 Exploring GeoPulse Capabilities**  
+
 A quick overview of the interactive map engine, showcasing the high-resolution layers, seamless navigation, and real-time geocoding search in action.
 
-https://github.com/user-attachments/assets/ce9d3459-7afa-40e8-b490-271ce52954bb
+https://github.com/user-attachments/assets/51cf20d9-d944-4887-ad7a-7cc60488729b
 
 ---
 
