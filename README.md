@@ -63,10 +63,10 @@ This project is made possible through the continuous dedication and generosity o
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/geopulse.git
+git clone https://github.com/JastinBolanos/GeoPulse-Open-Map-Explorer.git
 
 # 2. Navigate to project directory
-cd geopulse
+cd GeoPulse-Open-Map-Explorer
 
 # 3. Install dependencies
 npm install
